@@ -23,7 +23,7 @@ Follwing are the steps that can be used to produce training dataset from the bui
 #### 4. Identify Buildings
 
 - Visually inspect across the imagery to identify buildings that clearly match the properties of the category.  
-  Tip: Use Google Maps’ 3D Satellite View to determine the category if aerial image layers in QGIS are not helpful enough. Compared to aerial imagery with top-view of buildings only, Google Maps’ 3D Satellite View allows 360° rotation and street-level perspective that can further assist in accurately determining the building’s category.
+  Tip: Use Google Maps’ 3D Satellite View to determine the category if aerial image layers in QGIS are not helpful enough. Unlike aerial imagery, which offers only the top-view of buildings, Google Maps’ 3D Satellite View allows 360° rotation and street-level perspective that can further assist in accurately determining the building’s category.
 - Ensure you are selecting buildings from across the entire extent of the study area, not concentrated in one region.
 
 #### 5. Assigning Categories 
