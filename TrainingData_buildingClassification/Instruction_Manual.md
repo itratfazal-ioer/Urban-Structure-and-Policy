@@ -1,4 +1,5 @@
-## Step-by-Step Instructions
+## Step-by-Step Instructions 
+Follwing are the steps that can be used to produce training dataset from the building footprint dataset as geopackage in QGIS. 
 
 #### 1. Load Data in QGIS
 
