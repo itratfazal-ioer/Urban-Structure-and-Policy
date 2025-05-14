@@ -11,7 +11,7 @@ Follwing are the steps that can be used to produce training dataset from the bui
 
 #### 2. Understand Properties of Categories
 
-- Study the building classification schema defined for the project. The schema contains description of each building category. 
+- Study the building classification schema defined for the project. Schema document contains a detailed description of each building category. 
 - Understand how each type appears visually in the imagery based on the properties described in schema (e.g., size, shape, position next to other buildings, roof-type structure, neighbourhood, no. of building entrances, etc.).
 - Familiarize yourself with the visual properties of each building category. 
 
