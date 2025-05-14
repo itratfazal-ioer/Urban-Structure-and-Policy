@@ -20,13 +20,13 @@ Follwing are the steps that can be used to produce training dataset from the bui
 - In the attribute table of the building footprint layer, create a new text field where categories of the selected sample buildings will be added. Name it occording to your choice.
 
 
-#### 4. Identify Buildings for Categories
+#### 4. Identify Building for its Category
 
 - Visually inspect across the imagery to identify buildings that clearly reflect the scribed properties of the category. 
 Tip: Use Google Map's 3D Satellite View to determine the category if aerial image layers in QGIS are not helpful enough. Compared to aerial imagery with top-view of buildings only, Google Maps’ 3D Satellite View allows 360° rotation and street-level perspective that can further assist in accurately determining the building’s category.
 - Ensure you are selecting buildings from across the entire extent of the study area, not concentrated in one region.
 
-### 5. Assigning Categories 
+#### 5. Assigning Categories 
 
 - Open the **attribute table** of the building footprint layer.
 - Start editting mode.
