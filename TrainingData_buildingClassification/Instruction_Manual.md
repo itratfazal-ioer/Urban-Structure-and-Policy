@@ -5,7 +5,7 @@ Follwing are the steps that can be used to produce training dataset from the bui
 
 - Open QGIS and load the building footprint layer either as a geopackage or shapefile. 
 - Add background reference layers: 
-  - Google Satellite imagery (via XYZ Tiles). should I add our sources for all these layers. 
+  - Google Satellite imagery (via XYZ Tiles). 🔴should I add our sources for all these layers. 
   - Aerial imagery.
   - OSM Street Map (directly from XYZ layer in QGIS).
 
