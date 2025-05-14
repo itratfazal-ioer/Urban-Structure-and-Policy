@@ -6,5 +6,5 @@ It currently includes:
 - A guide to creating training data for building classification
 
 ## Folder Structure
-- `training-data/` – Step-by-step guide for creating training data
+- `TrainingData_buildingClassification/` – Instruction_manual
   
