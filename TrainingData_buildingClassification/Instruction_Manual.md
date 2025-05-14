@@ -1,13 +1,13 @@
 ## Step-by-Step Instructions 
-Follwing are the steps that can be used to produce training dataset from the building footprint dataset as geopackage in QGIS.
+Follwing are the steps that can be used to produce training dataset from the building footprint dataset as geopackage in QGIS. These steps were also followed to create training dataset for the building classification as a part of Subdense project. 
 
 #### 1. Load Data in QGIS
 
-- Open QGIS and load the **building footprint** layer either as a geopackage or shapefile. 
+- Open QGIS and load the building footprint layer either as a geopackage or shapefile. 
 - Add background reference layers: 
-- **Google Satellite imagery** (via XYZ Tiles). should I add our sources for all these layers. 
-- **Aerial imagery** 
-- **OSM Street Map** (directly from XYZ layer in QGIS)
+  -- Google Satellite imagery (via XYZ Tiles). should I add our sources for all these layers. 
+  -- Aerial imagery
+  -- OSM Street Map (directly from XYZ layer in QGIS)
 
 #### 2. Understand Properties of Categories
 
