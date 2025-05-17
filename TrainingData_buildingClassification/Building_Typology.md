@@ -11,7 +11,7 @@ Small apartment building, not attached to adjacent structures. This building typ
 
 **Example Map**  
 ![Typology 1 Map](Maps/Apartments_HistoricTownCenter5.png)
-![Typology 1 Map](Maps/Apartments_HistoricTownCenter.png)
+![Typology 1 Map](Maps/Screenshot.png)
 
 
 
