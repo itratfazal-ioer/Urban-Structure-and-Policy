@@ -27,3 +27,4 @@ To produce training data from a building footprint dataset, a sample of about 10
 
 
 
+
