@@ -10,7 +10,7 @@ Below is a description of each typology followed by an example map.
 Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from Type 31 due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
 
 **Example Map**  
-![Typology 1 Map](path/to/map1.png)
+![Typology 1 Map](Maps/Apartments_HistoricTownCenter.png)
 
 
 ## 2. [Typology Name]
