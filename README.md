@@ -6,5 +6,11 @@ It currently includes:
 - A guide to creating training data for building classification
 
 ## Folder Structure
-- `TrainingData_buildingClassification/` – Instruction_manual
+- TrainingData_buildingClassification/
+├── Task_report.md  
+├── Instruction_manual.md         
+├── Maps/                       
+│   └── example_map.jpg                 
+├── README.md                  
+
   
