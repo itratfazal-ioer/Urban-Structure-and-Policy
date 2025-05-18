@@ -1,18 +1,18 @@
-This folder contains all essential materials for the building classification task, including a detailed task report, building typology descriptions, typology-specific maps, and a step-by-step guide for generating training data.
+## Folder Overview
 
-#### Folder Overview
+This folder contains a materials used and produced for the building classification task, including a detailed report, building typology, typology-specific maps, and a step-by-step guide for generating training data.
 
-Below is a brief overview of the main files and sub-folders in TrainingData_buildingClassification folder:
+Below is a brief overview of the main files and sub-folders:
 
-📁 Maps/                  
-   └─ Contains a map for each building typology used in classification task. the maps are in PNG format.
-   
 📄 Task_Report.md  
    └─ A detailed report summarizing the overview, objectives, methodology, results, and references of the project.
-
+   
 📄 Building_Typology.md  
-   └─ Provides a description of different building typologies used for classification, including example maps and classification criteria.
+   └─ Provides a description of different building typologies used for classification task, including example maps and classification criteria.
 
+📁 Maps/                  
+   └─ Contains a map for each building typology in PNG format.
+   
 📄 Instruction_Manual.md  
    └─ Step-by-step guide explaining how to produce training data for building classification.
 
