@@ -5,7 +5,7 @@ It currently includes:
 
 
 ## Folder Structure
-#### TrainingData_buildingClassification/
+#### 📁 TrainingData_buildingClassification/
   
 ├── Maps/
                     
