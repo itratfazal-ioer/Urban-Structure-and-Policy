@@ -1,7 +1,7 @@
 # Urban Structure and Policy
 
 This repository contains documentation and workflows used for the SUBDENSE research group.  
-It currently includes:
+It currently includes the following folders:
 
 
 ## Folder Structure
