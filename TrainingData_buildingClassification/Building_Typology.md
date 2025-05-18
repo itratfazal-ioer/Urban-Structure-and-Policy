@@ -1,4 +1,4 @@
-# Building Typology Used in Training Data Production
+# Building Typology for Training Data Production
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
