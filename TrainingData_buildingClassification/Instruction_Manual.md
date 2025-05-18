@@ -1,23 +1,25 @@
-## Step-by-Step Instructions 
-Follwing are the steps that can be used to produce training dataset from the building footprint dataset as geopackage in QGIS. These steps were also followed to create training dataset for the building classification as a part of Subdense project. 
+## Instruction Manual 
+Follwing are the steps that can be used to produce training dataset from the building footprint dataset in QGIS. These steps were also followed to create training dataset for the building classification as a part of Subdense project. 
 
-#### 1. Load Data in QGIS
+
+#### 1. Understand Properties of Categories
+
+- Study the building typology defined for the project. Building Typology document contains a detailed description and classification criteria for each building category. Click [here](Building_Typology.md) to see building typology for the SUBDENSE training data task.
+- Understand how each type appears visually in the imagery based on the properties described in building typology (e.g., size, shape, position next to other buildings, roof-type structure, neighbourhood, no. of building entrances, etc.).
+- Familiarize yourself with the visual properties of each building category.
+
+#### 2. Load Data in QGIS
+Now that the typology is understood, classify building footprints into relevant categories. 
 
 - Open QGIS and load the building footprint layer either as a geopackage or shapefile. 
 - Add background reference layers: 
-  - Google Satellite imagery (via XYZ Tiles). 🔴should I add our sources for all these layers. 
+  - Google Satellite imagery (via XYZ Tiles). 
   - Aerial imagery.
   - OSM Street Map (directly from XYZ layer in QGIS).
 
-#### 2. Understand Properties of Categories
-
-- Study the building classification schema defined for the project. Schema document contains a detailed description of each building category. 
-- Understand how each type appears visually in the imagery based on the properties described in schema (e.g., size, shape, position next to other buildings, roof-type structure, neighbourhood, no. of building entrances, etc.).
-- Familiarize yourself with the visual properties of each building category. 
-
 #### 3. Create a Category field 
 
-- In the attribute table of the building footprint layer, create a new text field where categories of the selected sample buildings will be added. Name it occording to your choice.
+- In the attribute table of the building footprint layer, create a new text field to store the categories of the selected sample buildings. Name it occording to your choice.
 
 
 #### 4. Identify Buildings
