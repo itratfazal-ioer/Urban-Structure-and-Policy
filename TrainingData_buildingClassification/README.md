@@ -1,1 +1,1 @@
-
+This folder contains all relevant materials for the building classification task, including a task report, building typology, maps created for each typology and a step-by-step guide to produce training data for buiding classification.
