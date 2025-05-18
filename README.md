@@ -5,9 +5,10 @@ It currently includes:
 
 
 ## Folder Structure
-- TrainingData_buildingClassification/
+#### TrainingData_buildingClassification/
+  
 ├── Maps/
-                     
+                    
 ├── Building_Typology.md  
 
 ├── Instruction_Manual.md  
