@@ -6,7 +6,7 @@ Below is a description of each typology followed by an example map.
 
 ## 1. Detached Apartment Building 
 #### Code MFH-F, Type 12
-Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from Type 31 due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
+Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from [Type 31] (#7. Single family Houses) due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
 
 **Map**  
 ![Typology 1 Map](Maps/1111.png)
@@ -29,4 +29,83 @@ Old historic buildings located in the historic towns.
 
 **Map**  
 ![Typology 3 Map](path/to/map3.png)
+
+
+## 4. Traditional Row Apartment Building 
+#### Code MFH-TZ, Type 21
+Long apartment buildings, with more than one entrace.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 5. Multi-family House Industrial Construction
+#### Code MFH-IZ, Type 22
+Long apartment buildings, with more than one entrace.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 6. Multi-family House Block Development
+#### Code MFH-G, Type 23
+Long apartment buildings, with more than one entrace.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 7. Single family House
+#### Code EFH-EH, Type 31
+A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as Type 99.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 8. Terraced House
+#### Code EFH-RH, Type 32
+single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 9. Rural House Form
+#### Code LH, Type 33
+single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 10. Semi-detached House 
+#### Code EFH-DH, Type 34
+This typology consists of two single-family homes built together as a pair, usually sharing one common wall. Each unit typically includes an separate entrance and a garden area.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 11. Buildings for Business, Trade and Agriculture
+#### Code WGL, Type 41
+This typology consists of two single-family homes built together as a pair, usually sharing one common wall. Each unit typically includes an separate entrance and a garden area.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+## 12. Outbuildings
+#### Code NG, Type 99
+Small buildings, usually a garage or parking space, attached to/next to the main building.
+
+**Map**  
+![Typology 3 Map](path/to/map3.png)
+
+
+
+
+
+
+
 
