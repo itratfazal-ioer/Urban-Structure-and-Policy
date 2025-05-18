@@ -2,7 +2,7 @@
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px;">
+<div style="display: flex; justify-content: space-between; gap: 40px;">
 
 <div style="flex: 1;">
 
@@ -11,18 +11,19 @@ The training data was producted focusing on a defined set of building typologies
 - [Type 31 – Detached Single-Family House](#31-detached-single-family-house)  
 - [Type 32 – Attached Single-Family Houses](#32-attached-single-family-houses)  
 - [Type 33 – Semi-Detached Single-Family Houses](#33-semi-detached-single-family-houses)  
-- [Type 51 – Mixed-Use Buildings](#51-mixed-use-buildings)
+- [Type 51 – Mixed-Use Buildings](#51-mixed-use-buildings)  
+- [Type 91 – Construction Sites](#91-construction-sites)
 
 </div>
 
 <div style="flex: 1;">
 
-- [Type 91 – Construction Sites](#91-construction-sites)  
 - [Type 92 – Roof Structures](#92-roof-structures)  
 - [Type 93 – Industrial Buildings](#93-industrial-buildings)  
 - [Type 94 – Public Buildings](#94-public-buildings)  
 - [Type 95 – Commercial Buildings](#95-commercial-buildings)  
-- [Type 99 – Outbuildings](#99-outbuildings)
+- [Type 99 – Outbuildings](#99-outbuildings)  
+- *...add more here if needed...*
 
 </div>
 
