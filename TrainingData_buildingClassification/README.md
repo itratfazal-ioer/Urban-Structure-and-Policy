@@ -5,10 +5,10 @@ This folder contains a materials used and produced for the building classificati
 Below is a brief overview of the main files and sub-folders:
 
 📄 Task_Report.md  
-   └─ A detailed report summarizing the overview, objectives, methodology, results, and references of the project.
+   └─ A detailed report summarizing the overview, objectives, methodology, input data, software, and references for the project.
    
 📄 Building_Typology.md  
-   └─ Provides a description of different building typologies used for classification task, including example maps and classification criteria.
+   └─ Provides a description and example maps of different building typologies used for this classification task.
 
 📁 Maps/                  
    └─ Contains a map for each building typology in PNG format.
