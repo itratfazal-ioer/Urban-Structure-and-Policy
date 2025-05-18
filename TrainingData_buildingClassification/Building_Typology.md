@@ -57,7 +57,7 @@ Long apartment buildings, with more than one entrace.
 
 ## 7. Single family House
 #### Code EFH-EH, Type 31
-A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as [Type 99](#12.Outbuildings).
+A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as [Type 99](#12-Outbuildings).
 
 **Map**  
 ![Typology 3 Map](path/to/map3.png)
