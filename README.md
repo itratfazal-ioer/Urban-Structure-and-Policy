@@ -7,14 +7,14 @@ It currently includes:
 ## Folder Structure
 #### 📁 TrainingData_buildingClassification/
   
-├── Maps/
+  ├── 📁 Maps/
                     
-├── Building_Typology.md  
+  ├── Building_Typology.md  
 
-├── Instruction_Manual.md  
+  ├── Instruction_Manual.md  
 
-├── Task_Report.md 
+  ├── Task_Report.md 
 
-├── README.md                                 
+  ├── README.md                                 
 
   
