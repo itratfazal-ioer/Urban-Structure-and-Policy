@@ -1,6 +1,6 @@
 # Creating Training Data for Building Classification
 
-This document provides a detailed summary on how training data for building classification was produced using building footprint data and reference imagery.
+This document provides a detailed summary on how training data for building classification was produced using building footprint data and reference imagery. For a step-by-step guide, please see the [Instruction Manual](Instruction_Manual.md).
 
 
 Why doing this task? Purpose? Dataset?
