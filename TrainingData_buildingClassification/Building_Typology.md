@@ -2,6 +2,15 @@
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
+| Typologies A–M | Typologies N–Z |
+|----------------|----------------|
+| • [Type 11 – Large Apartment Block](#11-large-apartment-block) | • [Type 91 – Construction Site](#91-construction-site) |
+| • [Type 12 – Small Apartment Block](#12-small-apartment-block) | • [Type 92 – Roof Structures](#92-roof-structures) |
+| • [Type 31 – Detached Single-Family House](#31-detached-single-family-house) | • [Type 99 – Outbuildings](#99-outbuildings) |
+| • [Type 32 – Attached Single-Family Houses](#32-attached-single-family-houses) |    |
+| • [Type 33 – Semi-Detached Single-Family Houses](#33-semi-detached-single-family-houses) |    |
+
+
 Below is a description of each typology followed by an example map.
 
 ## 1. Detached Apartment Building 
