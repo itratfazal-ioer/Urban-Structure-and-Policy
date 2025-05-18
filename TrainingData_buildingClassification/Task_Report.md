@@ -1,12 +1,12 @@
 # Creating Training Data for Building Classification
 
-This document provides a detailed summary and a step-by-step guide on how training data for building classification was produced using building footprint data and reference imagery.
+This document provides a detailed summary on how training data for building classification was produced using building footprint data and reference imagery.
 
 
 Why doing this task? Purpose? Dataset?
 ---
 
-## Overview
+## Sampling Methodology
 
 To produce training data from a building footprint dataset, a sample of about 100 buildings was selected for each pre-defined building categories (see Building Classification Schema). Buildings were selected uniformly across the study area, which is critical to avoid spatial bias within the training dataset. However, this approach was not always possible for some categories due to the lack of specific building types in some areas. Despite this, uniform selection was applied as consistently as possible across most categories to maintain the overall spatial representativeness of the dataset.
 
@@ -19,7 +19,7 @@ To produce training data from a building footprint dataset, a sample of about 10
 
 ## Software Used
 
-- **QGIS** was used to identify and assign building categories to the sample buildings.
+- **QGIS** was used to identify and assign building categories to the sample buildings. Any GIS software, such as ArcGIS, can also be used. 
 
 ## References
 Hecht, Robert, Gotthard Meinel, and Manfred Buchroithner. “Automatic Identification of Building Types Based on Topographic Databases – a Comparison of Different Data Sources.” International Journal of Cartography 1, no. 1 (January 2, 2015): 18–31. https://doi.org/10.1080/23729333.2015.1055644.
