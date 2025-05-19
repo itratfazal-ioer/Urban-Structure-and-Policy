@@ -26,17 +26,14 @@ The following table summarizes the selected building typologies used for trainin
 #### Code MFH-F, Type 12
 Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from [Type 31](#7-single-family-house) due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
 
-![Typology 1 Map](Maps/1111.png)
-![Typology 1 Map](Maps/Apartments_HistoricTownCenter5.png)
-![Typology 1 Map](Maps/Screenshot.png)
-
+![Typology 1 Map](Maps/Detached_Apartment_Building.png)
 
 
 ## 2. High-rise Apartment Building 
 #### Code MFH-HH, Type 13
 Standalone apartment building with more than 30m height.  
  
-![Typology 2 Map](path/to/map2.png)
+![Typology 2 Map](Maps/High-rise Apartment.png)
 
 
 ## 3. Apartment Building in the Historic Town Center
@@ -71,7 +68,7 @@ This type of buildings form a closed or semi-closed block, often connected to ea
 #### Code EFH-EH, Type 31
 A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as [Type 99](#12-Outbuildings).
  
-![Typology 3 Map](Maps/Single-family_house.png)
+![Typology 3 Map](Maps/Single_family_house.png)
 
 
 ## 8. Terraced House
