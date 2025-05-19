@@ -48,21 +48,21 @@ These are old apartment buildings located in the historic part of the town. The 
 
 ## 4. Traditional Row Apartment Building 
 #### Code MFH-TZ, Type 21
-These are long, narrow apartment buildings with multmore than one entrance. They are arranged in rows with regular spacing. The layout is open, with green spaces or courtyards between the buildings. Parking is often located along the streets or in nearby lots.
+Long, narrow apartment buildings with more than one entrance, arranged in rows with regular spacing. The layout is open, with green spaces or courtyards between the buildings. Parking is often located along the streets or in nearby lots.
 
 ![Typology 3 Map](path/to/map3.png)
 
 
 ## 5. Multi-family House Industrial Construction
 #### Code MFH-IZ, Type 22
-These apartment buildings were built during the post-war period as part of industrial housing peroid. They have a simple, functional design with flat or low-pitched roofs. Buildings are long, with multiple entrances, and arranged in a regular grid. There are large green spaces between the blocks, often used as communal areas.
+Apartment buildings built during the post-war period as part of industrial housing peroid. They have a simple, functional design with flat or low-pitched roofs. Buildings are long, with multiple entrances, and arranged in a regular grid. There are large green spaces between the blocks, often used as communal areas.
 
 ![Typology 3 Map](path/to/map3.png)
 
 
 ## 6. Multi-family House Block Development
 #### Code MFH-G, Type 23
-These buildings form a closed or semi-closed block, often connected to each other. The layout follows the traditional “Blockrandbebauung” (perimeter block development) seen in many German cities. The inner courtyard is usually shared and used for green space, parking, or small gardens.
+This type of buildings form a closed or semi-closed block, often connected to each other. The layout follows the traditional “Blockrandbebauung” (perimeter block development) seen in many German cities. The inner courtyard is usually shared and used for green space, parking, or small gardens.
 
 ![Typology 3 Map](path/to/map3.png)
 
@@ -76,7 +76,7 @@ A small standalone residential building, typically surrounded by a private garde
 
 ## 8. Terraced House
 #### Code EFH-RH, Type 32
-single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
+Single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
   
 ![Typology 3 Map](path/to/map3.png)
 
@@ -103,7 +103,7 @@ This typology consists of two single-family homes built together as a pair, usua
 
 ## 12. Outbuildings
 #### Code NG, Type 99
-These are small secondary structures attached to or next to the main building. They are typically used as garages, storage units, or utility spaces. Outbuildings are often single-story and have a simple rectangular footprint with flat roof. They are not used for living purposes but support the main residential or commercial function of the adjacent building.
+Outbuildings are small secondary structures attached to or next to the main building. They are typically used as garages, storage units, or utility spaces. Outbuildings are often single-story and have a simple rectangular footprint with flat roof. They are not used for living purposes but support the main residential or commercial function of the adjacent building.
 
 ![Typology 3 Map](path/to/map3.png)
 
