@@ -43,56 +43,56 @@ Standalone apartment building with more than 30m height.
 #### Code MFH-H, Type 14
 These are old apartment buildings located in the historic part of the town. The buildings are built clustered together along narrow and winding streets with no proper structure. The buildings usually have red tile roofs and often no gardens or parking areas. Many are attached to each other and follow the shape of old street layouts. 
 
-![Apartments_in_HistoricTownCenter](Apartments_in_HistoricTownCenter.png)
+![Apartments_in_HistoricTownCenter](Maps/Apartments_in_HistoricTownCenter.png)
 
 
 ## 4. Traditional Row Apartment Building 
 #### Code MFH-TZ, Type 21
 Long, narrow apartment buildings with more than one entrance, arranged in rows with regular spacing. The layout is open, with green spaces or courtyards between the buildings. Parking is often located along the streets or in nearby lots.
 
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Traditional_Row_Apartment_Building.png)
 
 
 ## 5. Multi-family House Industrial Construction
 #### Code MFH-IZ, Type 22
 Apartment buildings built during the post-war period as part of industrial housing peroid. They have a simple, functional design with flat or low-pitched roofs. Buildings are long, with multiple entrances, and arranged in a regular grid. There are large green spaces between the blocks, often used as communal areas.
 
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Multifamily_house_industrial_Construction.png)
 
 
 ## 6. Multi-family House Block Development
 #### Code MFH-G, Type 23
 This type of buildings form a closed or semi-closed block, often connected to each other. The layout follows the traditional “Blockrandbebauung” (perimeter block development) seen in many German cities. The inner courtyard is usually shared and used for green space, parking, or small gardens.
 
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Block_house_development.png)
 
 
 ## 7. Single-family House
 #### Code EFH-EH, Type 31
 A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as [Type 99](#12-Outbuildings).
  
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Single-family_house.png)
 
 
 ## 8. Terraced House
 #### Code EFH-RH, Type 32
 Single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
   
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Terraced_Houses.png)
 
 
 ## 9. Rural House Form
 #### Code LH, Type 33
 This building type is typically found in rural or countryside and consists of multiple freestanding structures. One building serves as the main residential unit, while the others are used for agricultural or utility purposes, such as barn or storage units. The buildings are usually situated within or adjacent to farmland, reflecting traditional rural settlement patterns in Germany. The buildings often feature pitched roofs.
 
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Rural_house_form.png)
 
 
 ## 10. Semi-detached House 
 #### Code EFH-DH, Type 34
 This typology consists of two single-family homes built together as a pair, usually sharing one common wall. Each unit typically includes an separate entrance and a garden area.
  
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Semi-detached_houses.png)
 
 
 ## 11. Buildings for Business, Trade and Agriculture
@@ -105,7 +105,7 @@ This typology consists of two single-family homes built together as a pair, usua
 #### Code NG, Type 99
 Outbuildings are small secondary structures attached to or next to the main building. They are typically used as garages, storage units, or utility spaces. Outbuildings are often single-story and have a simple rectangular footprint with flat roof. They are not used for living purposes but support the main residential or commercial function of the adjacent building.
 
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Outbuildings.png)
 
 
 
