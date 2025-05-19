@@ -4,7 +4,7 @@ The training data was producted focusing on a defined set of building typologies
 
 The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 100px;">
 
 | Sr. No. | Typology                                                                 | Type | Code    |
 |--------:|--------------------------------------------------------------------------|------|---------|
