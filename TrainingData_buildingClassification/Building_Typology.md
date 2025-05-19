@@ -2,7 +2,7 @@
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
-The following table summarizes the selected building typologies used for training data production:
+The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
 
 
 | Sr. No. | Typology                                                                 | Type | Code    |
@@ -20,7 +20,6 @@ The following table summarizes the selected building typologies used for trainin
 |11       | [Buildings for Business, Trade and Agriculture](#11-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
 |12       | [Outbuildings](#12-outbuildings)                                        | 99   | NG      |
 
-Below is a description of each typology followed by an example map.
 
 ## 1. Detached Apartment Building 
 #### Code MFH-F, Type 12
