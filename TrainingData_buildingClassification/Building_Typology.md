@@ -2,6 +2,9 @@
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
+The following table summarizes the selected building typologies used for training data production:
+
+
 | Sr. No. | Typology                                                                 | Type | Code    |
 |--------:|--------------------------------------------------------------------------|------|---------|
 | 1       | [Detached Apartment Building](#1-detached-apartment-building)           | 12   | MFH-F   |
