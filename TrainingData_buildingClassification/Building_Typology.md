@@ -22,6 +22,7 @@ The following table summarizes the selected building typologies used for trainin
 |11       | [Buildings for Business, Trade and Agriculture](#11-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
 |12       | [Outbuildings](#12-outbuildings)                                        | 99   | NG      |
 
+...
 
 ## 1. Detached Apartment Building 
 #### Code MFH-F, Type 12
