@@ -5,6 +5,8 @@ The training data was producted focusing on a defined set of building typologies
 The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
 
 
+
+
 | Sr. No. | Typology                                                                 | Type | Code    |
 |--------:|--------------------------------------------------------------------------|------|---------|
 | 1       | [Detached Apartment Building](#1-detached-apartment-building)           | 12   | MFH-F   |
