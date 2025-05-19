@@ -1,5 +1,5 @@
 ## Instruction Manual 
-Follwing are the steps that can be used to produce training dataset from the building footprint dataset in QGIS. These steps were also followed to create training dataset for the building classification as a part of Subdense project. 
+Following are the steps that can be used to produce training dataset from the building footprint dataset in QGIS. These steps were also followed to create training dataset for the building classification as a part of Subdense project. 
 
 
 #### 1. Understand Properties of Categories
