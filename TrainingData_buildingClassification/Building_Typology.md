@@ -4,8 +4,6 @@ The training data was producted focusing on a defined set of building typologies
 
 The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
 
-<div style="margin-bottom: 100px;">
-
 | Sr. No. | Typology                                                                 | Type | Code    |
 |--------:|--------------------------------------------------------------------------|------|---------|
 | 1       | [Detached Apartment Building](#1-detached-apartment-building)           | 12   | MFH-F   |
@@ -21,11 +19,8 @@ The following table summarizes the selected building typologies used for trainin
 |11       | [Buildings for Business, Trade and Agriculture](#11-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
 |12       | [Outbuildings](#12-outbuildings)                                        | 99   | NG      |
 
-</div>
 
-## 1. Detached Apartment Building 
-#### Code MFH-F, Type 12
-Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from [Type 31](#7-single-family-house) due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
+<p>&nbsp;</p>
 
 ## 1. Detached Apartment Building 
 #### Code MFH-F, Type 12
