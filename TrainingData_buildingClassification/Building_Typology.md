@@ -2,24 +2,20 @@
 
 The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
-| Typology                                                                 | Type | Code    |
-|--------------------------------------------------------------------------|------|---------|
-| [Detached Apartment Building](#1-detached-apartment-building)           | 12   | MFH-F   |
-| [High-rise Apartment Building](#2-high-rise-apartment-building)         | 13   | MFH-HH  |
-| [Apartment Building in the Historic Town Center](#3-apartment-building-in-the-historic-town-center) | 14   | MFH-H   |
-| [Traditional Row Apartment Building](#4-traditional-row-apartment-building) | 21   | MFH-TZ  |
-| [Multi-family House Industrial Construction](#5-multi-family-house-industrial-construction) | 22   | MFH-IZ  |
-| [Multi-family House Block Development](#6-multi-family-house-block-development) | 23   | MFH-G   |
-| [Single family House](#7-single-family-house)                           | 31   | EFH-EH  |
-| [Terraced House](#8-terraced-house)                                     | 32   | EFH-RH  |
-| [Rural House Form](#9-rural-house-form)                                 | 33   | LH      |
-| [Semi-detached House](#10-semi-detached-house)                          | 34   | EFH-DH  |
-| [Buildings for Business, Trade and Agriculture](#11-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
-| [Outbuildings](#12-outbuildings)                                        | 99   | NG      |
-
-
-
-
+| Sr. No. | Typology                                                                 | Type | Code    |
+|--------:|--------------------------------------------------------------------------|------|---------|
+| 1       | [Detached Apartment Building](#1-detached-apartment-building)           | 12   | MFH-F   |
+| 2       | [High-rise Apartment Building](#2-high-rise-apartment-building)         | 13   | MFH-HH  |
+| 3       | [Apartment Building in the Historic Town Center](#3-apartment-building-in-the-historic-town-center) | 14   | MFH-H   |
+| 4       | [Traditional Row Apartment Building](#4-traditional-row-apartment-building) | 21   | MFH-TZ  |
+| 5       | [Multi-family House Industrial Construction](#5-multi-family-house-industrial-construction) | 22   | MFH-IZ  |
+| 6       | [Multi-family House Block Development](#6-multi-family-house-block-development) | 23   | MFH-G   |
+| 7       | [Single family House](#7-single-family-house)                           | 31   | EFH-EH  |
+| 8       | [Terraced House](#8-terraced-house)                                     | 32   | EFH-RH  |
+| 9       | [Rural House Form](#9-rural-house-form)                                 | 33   | LH      |
+|10       | [Semi-detached House](#10-semi-detached-house)                          | 34   | EFH-DH  |
+|11       | [Buildings for Business, Trade and Agriculture](#11-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
+|12       | [Outbuildings](#12-outbuildings)                                        | 99   | NG      |
 
 Below is a description of each typology followed by an example map.
 
