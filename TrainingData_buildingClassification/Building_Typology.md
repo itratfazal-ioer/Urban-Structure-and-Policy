@@ -61,7 +61,7 @@ Apartment buildings built during the post-war period as part of industrial housi
 #### Code MFH-G, Type 23
 This type of buildings form a closed or semi-closed block, often connected to each other. The layout follows the traditional “Blockrandbebauung” (perimeter block development) seen in many German cities. The inner courtyard is usually shared and used for green space, parking, or small gardens.
 
-![Typology 3 Map](Maps/Block_house_development.png)
+![Typology 3 Map](Maps/Multi-family_House_Block_Development.png)
 
 
 ## 7. Single-family House
