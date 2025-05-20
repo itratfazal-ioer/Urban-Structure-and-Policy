@@ -74,7 +74,7 @@ A small standalone residential building, typically surrounded by a private garde
 #### Code EFH-RH, Type 32
 Single-family homes that are built directly next to one another, sharing side walls. Each unit has its own entrance from street level. Typically, each house also includes a private garden, which is often visible in aerial imagery.
   
-![Typology 3 Map](Maps/Terraced_Houses.png)
+![Typology 3 Map](Maps/Terraced_Houses1.png)
 
 
 ## 9. Rural House Form
