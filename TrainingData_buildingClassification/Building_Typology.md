@@ -40,7 +40,7 @@ Standalone apartment building with more than 30m height.
 #### Code MFH-H, Type 14
 These are old apartment buildings located in the historic part of the town. The buildings are built clustered together along narrow and winding streets with no proper structure. The buildings usually have red tile roofs and often no gardens or parking areas. Many are attached to each other and follow the shape of old street layouts. 
 
-![Apartments_in_HistoricTownCenter](Maps/Apartments_in_HistoricTownCenter.png)
+![Apartments_in_HistoricTownCenter](Maps/Apartment_Building_Historic_Town_Center.png)
 
 
 ## 4. Traditional Row Apartment Building 
