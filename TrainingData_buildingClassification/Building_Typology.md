@@ -53,7 +53,7 @@ Long, narrow apartment buildings with more than one entrance, arranged in rows w
 #### Code MFH-IZ, Type 22
 Apartment buildings built during the post-war period as part of industrial housing peroid. They have a simple, functional design with flat or low-pitched roofs. Buildings are long, with multiple entrances, and arranged in a regular grid. There are large green spaces between the blocks, often used as communal areas.
 
-![Typology 3 Map](Maps/Multifamily_house_industrial_Construction.png)
+![Typology 3 Map](Maps/Multi-family_House_Industrial_Construction.png)
 
 
 ## 6. Multi-family House Block Development
