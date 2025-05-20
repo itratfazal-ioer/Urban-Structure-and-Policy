@@ -47,7 +47,7 @@ These are old apartment buildings located in the historic part of the town. The 
 #### Code MFH-TZ, Type 21
 Long, narrow apartment buildings with more than one entrance, arranged in rows with regular spacing. The layout is open, with green spaces or courtyards between the buildings. Parking is often located along the streets or in nearby lots.
 
-![Typology 3 Map](Maps/Traditional_Row_Apartment_Building.png
+![Typology 3 Map](Maps/Traditional_Row_Apartment_Building.png)
 
 ## 5. Multi-family House Industrial Construction
 #### Code MFH-IZ, Type 22
