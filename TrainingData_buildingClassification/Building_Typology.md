@@ -28,6 +28,7 @@ Small apartment building, not attached to adjacent structures. This building typ
 
 ![Typology 1 Map](Maps/Test.png)
 ![Typology 1 Map](Maps/Detached_Apartment_Building1.png)
+![Typology 1 Map](Maps/Detached_Apartment_Building2.png)
 ![Typology 1 Map](Maps/Detached_Apartment_Building.png)
 
 
