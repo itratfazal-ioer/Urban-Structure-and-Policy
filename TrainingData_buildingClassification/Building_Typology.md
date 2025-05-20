@@ -68,7 +68,7 @@ This type of buildings form a closed or semi-closed block, often connected to ea
 #### Code EFH-EH, Type 31
 A small standalone residential building, typically surrounded by a private garden. It often includes an attached garage. When annotating this type, only the main residential structure should be labeled as Type 31. Additional structures such as garages, sheds, or other outbuildings should be classified separately as [Type 99](#12-Outbuildings).
  
-![Typology 3 Map](Maps/Single_family_house.png)
+![Typology 3 Map](Maps/Single-family_Homes.png)
 
 
 ## 8. Terraced House
