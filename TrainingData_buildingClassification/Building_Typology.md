@@ -26,6 +26,8 @@ The following table summarizes the selected building typologies used for trainin
 #### Code MFH-F, Type 12
 Small apartment building, not attached to adjacent structures. This building type is often difficult to distinguish from [Type 31](#7-single-family-house) due to similar size and form. However, certain indicators can assist in classification. Unlike Type 31, Type 12 typically lacks a surrounding garden area. The presence of multiple balconies and a significant number of parking spaces may also suggest this typology.
 
+![Typology 1 Map](Maps/Test.png)
+
 ![Typology 1 Map](Maps/Detcahed_Apartment_Building_smaller.png)
 ![Typology 1 Map](Maps/Detached_Apartment_Building_small.png)
 ![Typology 1 Map](Maps/Detached_Apartment_Building.png)
