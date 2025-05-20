@@ -88,7 +88,7 @@ This building type is typically found in rural or countryside and consists of mu
 #### Code EFH-DH, Type 34
 This typology consists of two single-family homes built together as a pair, usually sharing one common wall. Each unit typically includes an separate entrance and a garden area.
  
-![Typology 3 Map](Maps/Semi-detached_Houses.png)
+![Typology 3 Map](Maps/Semi-detached_House_34.png)
 
 
 ## 11. Buildings for Business, Trade and Agriculture
