@@ -33,7 +33,7 @@ Small apartment building, not attached to adjacent structures. This building typ
 #### Code MFH-HH, Type 13
 Standalone apartment building with more than 30m height.  
  
-![Typology 2 Map](Maps/High-rise_Apartment.png)
+![Typology 2 Map](Maps/High-rise_Apartment_Building.png)
 
 
 ## 3. Apartment Building in the Historic Town Center
