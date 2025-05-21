@@ -101,7 +101,7 @@ This typology consists of two single-family homes built together as a pair, usua
 #### Code NG, Type 99
 Outbuildings are small secondary structures attached to or next to the main building. They are typically used as garages, storage units, or utility spaces. Outbuildings are often single-story and have a simple rectangular footprint with flat roof. They are not used for living purposes but support the main residential or commercial function of the adjacent building.
 
-![Typology 3 Map](Maps/Outbuildings.png)
+![Typology 3 Map](Maps/Outbuildings1.png)
 
 
 
