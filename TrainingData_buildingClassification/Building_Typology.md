@@ -7,16 +7,16 @@ The following table summarizes the selected building typologies used for trainin
 | Sr. No. | Code   | Type | Typology                                                                 | Typologie (Deutsch)            |
 |--------:|--------|------|--------------------------------------------------------------------------|--------------------------------|
 | 1       | OEG    | 1    | [Public Buildings](#1-public-buildings)                                 | Öffentliche Gebäude            |
-| 2       | MFH-F  | 12   | [Detached Apartment Building](#2-detached-apartment-building)           | Freistehendes Mehrfamilienhaus |
-| 3       | MFH-HH | 13   | [High-rise Apartment Building](#3-high-rise-apartment-building)         | Hochhaus                       |
-| 4       | MFH-H  | 14   | [Apartment Building in the Historic Town Center](#4-apartment-building-in-the-historic-town-center) | Altstadt-Mehrfamilienhaus      |
-| 5       | MFH-TZ | 21   | [Traditional Row Apartment Building](#5-traditional-row-apartment-building) | Traditionelles Reihenhaus      |
-| 6       | MFH-IZ | 22   | [Multi-family House Industrial Construction](#6-multi-family-house-industrial-construction) | Industriell gebautes MFH       |
-| 7       | MFH-G  | 23   | [Multi-family House Block Development](#7-multi-family-house-block-development) | Geschosswohnungsbau            |
+| 2       | MFH-F  | 12   | [Detached Apartment Building](#2-detached-apartment-building)           | Mehrfamilienhaus Freistehendes |
+| 3       | MFH-HH | 13   | [High-rise Apartment Building](#3-high-rise-apartment-building)         | Mehrfamilienhaus Hochhaus                       |
+| 4       | MFH-H  | 14   | [Apartment Building in the Historic Town Center](#4-apartment-building-in-the-historic-town-center) | Mehrfamilienhaus im historischen Ortskern      |
+| 5       | MFH-TZ | 21   | [Traditional Row Apartment Building](#5-traditional-row-apartment-building) | Mehrfamilienhaus traditionelle Zeile      |
+| 6       | MFH-IZ | 22   | [Multi-family House Industrial Construction](#6-multi-family-house-industrial-construction) | Mehrfamilienhaus industrielle Bauweise       |
+| 7       | MFH-G  | 23   | [Multi-family House Block Development](#7-multi-family-house-block-development) | Mehrfamilienhaus Blockrandbebauung           |
 | 8       | EFH-EH | 31   | [Single Family House](#8-single-family-house)                           | Einfamilienhaus                |
 | 9       | EFH-RH | 32   | [Terraced House](#9-terraced-house)                                     | Reihenhaus                     |
-| 10      | LH     | 33   | [Rural House Form](#10-rural-house-form)                                | Ländliches Wohnhaus            |
-| 11      | EFH-DH | 34   | [Semi-detached House](#11-semi-detached-house)                          | Doppelhaushälfte               |
+| 10      | LH     | 33   | [Rural House Form](#10-rural-house-form)                                | Ländliche Hausform            |
+| 11      | EFH-DH | 34   | [Semi-detached House](#11-semi-detached-house)                          | Doppelhaus               |
 | 12      | WGL    | 41   | [Buildings for Business, Trade and Agriculture](#12-buildings-for-business-trade-and-agriculture) | Gewerbliche Gebäude            |
 | 13      | NG     | 99   | [Outbuildings](#13-outbuildings)                                        | Nebengebäude                   |
 
