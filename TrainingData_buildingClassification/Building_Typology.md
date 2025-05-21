@@ -94,7 +94,7 @@ This typology consists of two single-family homes built together as a pair, usua
 ## 11. Buildings for Business, Trade and Agriculture
 #### Code WGL, Type 41
   
-![Typology 3 Map](path/to/map3.png)
+![Typology 3 Map](Maps/Buildings_Business_Trade_Agriculture.png)
 
 
 ## 12. Outbuildings
