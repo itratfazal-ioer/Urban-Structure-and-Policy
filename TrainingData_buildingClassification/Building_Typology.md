@@ -4,21 +4,21 @@ The training data was producted focusing on a defined set of building typologies
 
 The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
 
-| Sr. No. | Typology                                                                 | Type | Code    |
-|--------:|--------------------------------------------------------------------------|------|---------|
-| 1       | [Public Buildings](#1-public-buildings)           | 1   | OEG   |
-| 2      | [Detached Apartment Building](#2-detached-apartment-building)           | 12   | MFH-F   |
-| 3       | [High-rise Apartment Building](#3-high-rise-apartment-building)         | 13   | MFH-HH  |
-| 4       | [Apartment Building in the Historic Town Center](#4-apartment-building-in-the-historic-town-center) | 14   | MFH-H   |
-| 5       | [Traditional Row Apartment Building](#5-traditional-row-apartment-building) | 21   | MFH-TZ  |
-| 6       | [Multi-family House Industrial Construction](#6-multi-family-house-industrial-construction) | 22   | MFH-IZ  |
-| 7       | [Multi-family House Block Development](#7-multi-family-house-block-development) | 23   | MFH-G   |
-| 8       | [Single family House](#8-single-family-house)                           | 31   | EFH-EH  |
-| 9       | [Terraced House](#9-terraced-house)                                     | 32   | EFH-RH  |
-| 10       | [Rural House Form](#10-rural-house-form)                                 | 33   | LH      |
-|11       | [Semi-detached House](#11-semi-detached-house)                          | 34   | EFH-DH  |
-|12       | [Buildings for Business, Trade and Agriculture](#12-buildings-for-business-trade-and-agriculture) | 41   | WGL     |
-|13       | [Outbuildings](#13-outbuildings)                                        | 99   | NG      |
+| Sr. No. | Code   | Type | Typology                                                                 | Typologie (Deutsch)            |
+|--------:|--------|------|--------------------------------------------------------------------------|--------------------------------|
+| 1       | OEG    | 1    | [Public Buildings](#1-public-buildings)                                 | Öffentliche Gebäude            |
+| 2       | MFH-F  | 12   | [Detached Apartment Building](#2-detached-apartment-building)           | Freistehendes Mehrfamilienhaus |
+| 3       | MFH-HH | 13   | [High-rise Apartment Building](#3-high-rise-apartment-building)         | Hochhaus                       |
+| 4       | MFH-H  | 14   | [Apartment Building in the Historic Town Center](#4-apartment-building-in-the-historic-town-center) | Altstadt-Mehrfamilienhaus      |
+| 5       | MFH-TZ | 21   | [Traditional Row Apartment Building](#5-traditional-row-apartment-building) | Traditionelles Reihenhaus      |
+| 6       | MFH-IZ | 22   | [Multi-family House Industrial Construction](#6-multi-family-house-industrial-construction) | Industriell gebautes MFH       |
+| 7       | MFH-G  | 23   | [Multi-family House Block Development](#7-multi-family-house-block-development) | Geschosswohnungsbau            |
+| 8       | EFH-EH | 31   | [Single Family House](#8-single-family-house)                           | Einfamilienhaus                |
+| 9       | EFH-RH | 32   | [Terraced House](#9-terraced-house)                                     | Reihenhaus                     |
+| 10      | LH     | 33   | [Rural House Form](#10-rural-house-form)                                | Ländliches Wohnhaus            |
+| 11      | EFH-DH | 34   | [Semi-detached House](#11-semi-detached-house)                          | Doppelhaushälfte               |
+| 12      | WGL    | 41   | [Buildings for Business, Trade and Agriculture](#12-buildings-for-business-trade-and-agriculture) | Gewerbliche Gebäude            |
+| 13      | NG     | 99   | [Outbuildings](#13-outbuildings)                                        | Nebengebäude                   |
 
 
 <p>&nbsp;</p>
