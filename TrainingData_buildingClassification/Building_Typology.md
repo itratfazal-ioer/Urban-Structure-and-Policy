@@ -25,7 +25,7 @@ The following table summarizes the selected building typologies used for trainin
 
 ## 1. Public Buildings 
 #### Code OEG, Type 1
-Building for Public
+These are buildings intended for public or communal use, not owned privately but accessible to the general population. They include structures such as churches, rathaus, community centers, and similar institutions.
 
 ![Typology 1 Map](Maps/Public_buildings.png)
 
