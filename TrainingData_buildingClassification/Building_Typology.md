@@ -88,7 +88,7 @@ Single-family homes that are built directly next to one another, sharing side wa
 #### Code LH, Type 33
 This building type is typically found in rural or countryside and consists of multiple freestanding structures. One building serves as the main residential unit, while the others are used for agricultural or utility purposes, such as barn or storage units. The buildings are usually situated within or adjacent to farmland, reflecting traditional rural settlement patterns in Germany. The buildings often feature pitched roofs.
 
-![Typology 3 Map](Maps/Rural_house_form.png)
+![Typology 3 Map](Maps/Rural_House_form.png)
 
 
 ## 11. Semi-detached House 
