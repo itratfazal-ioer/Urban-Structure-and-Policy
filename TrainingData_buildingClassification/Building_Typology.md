@@ -1,6 +1,6 @@
 # Building Typology for Training Data Production
 
-The training data was produced focusing on a defined building typology (Hecht 2014). This typology represents patterns and characteristics observed in various urban and rural settings in context to Germany. 
+The training data was produced focusing on a defined building typology ([Hecht 2014](https://www.ssoar.info/ssoar/handle/document/39686)). This typology represents patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
 The following table summarizes the building typology used for training data production. Click the links for description of each type followed by an example map.
 
