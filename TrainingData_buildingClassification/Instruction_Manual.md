@@ -42,9 +42,8 @@ Now that the typology is understood, classify building footprints into relevant 
 
 #### Tips
 
-- Avoid clustered selections; ensure wide spatial coverage.
 - Cross-check classification with multiple basemaps for accuracy.
-- Categorize only buildings you are confident about.
+- Categorize only buildings you are confident about. If you are not sure, doublecheck and discuss with a colleague. 
 
 ---
 
