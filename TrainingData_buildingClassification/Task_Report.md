@@ -2,14 +2,6 @@
 
 This document provides a detailed summary on how training data for building classification was produced using building footprint data and reference imagery. For a step-by-step guide, please see the [Instruction Manual](Instruction_Manual.md).
 
-
-Why doing this task? Purpose? Dataset?
----
-
-## Sampling Methodology
-
-To produce training data from a building footprint dataset, a sample of about 100 buildings was selected for each pre-defined building categories (see Building Classification Schema). Buildings were selected uniformly across the study area, which is critical to avoid spatial bias within the training dataset. However, this approach was not always possible for some categories due to the lack of specific building types in some areas. Despite this, uniform selection was applied as consistently as possible across most categories to maintain the overall spatial representativeness of the dataset.
-
 ## Required Inputs
 
 - Building footprint dataset (with existing attribute table)
