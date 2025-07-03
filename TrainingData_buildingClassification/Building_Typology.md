@@ -1,8 +1,8 @@
 # Building Typology for Training Data Production
 
-The training data was producted focusing on a defined set of building typologies. These typologies represent patterns and characteristics observed in various urban and rural settings in context to Germany. 
+The training data was producted focusing on a defined building typology. This typology represents patterns and characteristics observed in various urban and rural settings in context to Germany. 
 
-The following table summarizes the selected building typologies used for training data production. Click the links for description of each typology followed by an example map.
+The following table summarizes the building typology used for training data production. Click the links for description of each type followed by an example map.
 
 | Sr. No. | Code   | Type | Typology                                                                 | Typologie (Deutsch)            |
 |--------:|--------|------|--------------------------------------------------------------------------|--------------------------------|
@@ -12,7 +12,7 @@ The following table summarizes the selected building typologies used for trainin
 | 4       | MFH-H  | 14   | [Apartment Building in the Historic Town Center](#4-apartment-building-in-the-historic-town-center) | Mehrfamilienhaus im historischen Ortskern      |
 | 5       | MFH-TZ | 21   | [Traditional Row Apartment Building](#5-traditional-row-apartment-building) | Mehrfamilienhaus traditionelle Zeile      |
 | 6       | MFH-IZ | 22   | [Multi-family House Industrial Construction](#6-multi-family-house-industrial-construction) | Mehrfamilienhaus industrielle Bauweise       |
-| 7       | MFH-G  | 23   | [Multi-family House Block Development](#7-multi-family-house-block-development) | Mehrfamilienhaus Blockrandbebauung           |
+| 7       | MFH-G  | 23   | [Multi-family House Perimeter Block](#7-multi-family-house-perimeter-block) | Mehrfamilienhaus Blockrandbebauung           |
 | 8       | EFH-EH | 31   | [Single Family House](#8-single-family-house)                           | Einfamilienhaus                |
 | 9       | EFH-RH | 32   | [Terraced House](#9-terraced-house)                                     | Reihenhaus                     |
 | 10      | LH     | 33   | [Rural House Form](#10-rural-house-form)                                | Ländliche Hausform            |
@@ -63,7 +63,7 @@ Apartment buildings built during the post-war period as part of industrial housi
 ![Typology 3 Map](Maps/Multi-family_House_Industrial_Construction.png)
 
 
-## 7. Multi-family House Block Development
+## 7. Multi-family House Perimeter Block
 #### Code MFH-G, Type 23
 This type of buildings form a closed or semi-closed block, often connected to each other. The layout follows the traditional “Blockrandbebauung” (perimeter block development) seen in many German cities. The inner courtyard is usually shared and used for green space, parking, or small gardens.
 
