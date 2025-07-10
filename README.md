@@ -7,14 +7,18 @@ It currently includes the following folders:
 
 Below is a brief overview of the main files and sub-folders:
 
-📄 [Task_Report.md](./Task_Report.md)
+📄 [Task_Report.md](./Task_Report.md) 
+
    └─ A detailed report summarizing the overview, objectives, methodology, input data, software, and references for the project.
    
-📄 [Building_Typology.md](./Building_Typology.md)
+📄 [Building_Typology.md](./Building_Typology.md) 
+
    └─ Provides a description and example maps of different building typologies used for this classification task.
 
-📁 [Maps/](./Maps/)
+📁 [Maps/](./Maps/) 
+
    └─ Contains a map for each building typology in PNG format.
    
-📄 [Instruction_Manual.md](./Instruction_Manual.md)
+📄 [Instruction_Manual.md](./Instruction_Manual.md) 
+
    └─ Step-by-step guide explaining how to produce training data for building classification.
