@@ -1,20 +1,20 @@
 # Training data for building type classification
 
-This repository contains documentation and workflows used for the SUBDENSE research group.  
+This repository contains  a materials used and produced for the building classification task, including a detailed report, building typology, typology-specific maps, and a step-by-step guide for generating training data.
 It currently includes the following folders:
-
-
-## Folder Structure
-#### 📁 TrainingData_buildingClassification/
   
-  ├── 📁 [Maps/](./TrainingData_buildingClassification/Maps/)
-                    
-  ├── [Building_Typology.md](./TrainingData_buildingClassification/Building_Typology.md)
+## Folder Overview
 
-  ├── [Instruction_Manual.md](./TrainingData_buildingClassification/Instruction_Manual.md)
+Below is a brief overview of the main files and sub-folders:
 
-  ├── [Task_Report.md](./TrainingData_buildingClassification/Task_Report.md)
+📄 [Task_Report.md](./Task_Report.md)
+   └─ A detailed report summarizing the overview, objectives, methodology, input data, software, and references for the project.
+   
+📄 [Building_Typology.md](./Building_Typology.md)
+   └─ Provides a description and example maps of different building typologies used for this classification task.
 
-  ├── README.md                                 
-
-  
+📁 [Maps/](./Maps/)
+   └─ Contains a map for each building typology in PNG format.
+   
+📄 [Instruction_Manual.md](./Instruction_Manual.md)
+   └─ Step-by-step guide explaining how to produce training data for building classification.
