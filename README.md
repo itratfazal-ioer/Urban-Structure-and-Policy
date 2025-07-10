@@ -1,4 +1,4 @@
-# Urban Structure and Policy
+# Training data for building type classification
 
 This repository contains documentation and workflows used for the SUBDENSE research group.  
 It currently includes the following folders:
